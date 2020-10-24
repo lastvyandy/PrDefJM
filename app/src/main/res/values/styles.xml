@@ -1,0 +1,35 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+    <style name="editextEstilo">
+        <item name="android:textColorHint">#FFFF</item>
+        <item name="android:drawablePadding">10dp</item>
+        <item name="android:drawableTint">@color/colorWhite</item>
+        <item name="android:textColor">@color/colorWhite</item>
+        <item name="android:backgroundTint">@color/colorWhite</item>
+        <item name="android:layout_width">match_parent</item>
+    </style>
+
+    <style name="botones">
+
+        <item name="android:textColor">@color/colorWhite</item>
+        <item name="android:layout_width">match_parent</item>
+    </style>
+
+    <style name="estilodetexto">
+        <item name="android:textColor">@color/colorWhite</item>
+        <item name="android:textSize">18dp</item>
+        <item name="android:drawableTint">@color/colorWhite</item>
+
+    </style>
+
+
+
+</resources>

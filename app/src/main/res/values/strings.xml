@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PracticaVIernes</string>
+    <string name="app_email">Ingrese su correo</string>
+    <string name="app_password">Ingrese su contraseña</string>
+    <string name="app_enter">Ingresar</string>
+    <string name="app_registro">Registrarse</string>
+    <string name="app_welcome">Bienvenido a la aplicacion</string>
+</resources>
